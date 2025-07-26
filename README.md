@@ -83,6 +83,12 @@ A modern, pixel-art recreation of the **classic Bomberman arcade game**, built u
   ./bomberman
   ```
 
-## Enjoy the game! 🎉
+## 📦 One-Click Run
 
-💡 No SFML setup? Just download the prebuilt executable zip, extract it, and run the .exe file to start playing instantly.
+Want to try **without compiling**?
+
+- [**Download the ZIP release**](https://github.com/Musab-Farooq/Bomberman/blob/main/BomberMan.zip)  
+- Extract the folder.
+- Run the provided `.exe` file inside to launch Bomberman instantly!
+
+---
